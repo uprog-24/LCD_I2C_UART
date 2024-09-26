@@ -1,5 +1,5 @@
 /**
- * \file mt16s2h_i2c_lib.h
+ * @file mt16s2h_i2c_lib.h
  */
 #ifndef INC_MT16S2H_I2C_LIB_H_
 #define INC_MT16S2H_I2C_LIB_H_
